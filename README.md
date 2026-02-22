@@ -1,4 +1,4 @@
-# school YPI APPS MOBILE
+# School YPI APPS MOBILE
 
 ### 
 1. Fitur Login
