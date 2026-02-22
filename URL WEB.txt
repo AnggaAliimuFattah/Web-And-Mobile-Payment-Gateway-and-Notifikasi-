@@ -1,0 +1,5 @@
+LINK PUBLIK WEB
+https://tester-yipischool-admin.online/ 
+
+LINK WEB ADMIN
+https://tester-yipischool-admin.online/login-admin
