@@ -1,16 +1,13 @@
-# school_ypi_new_two
+# school YPI APPS MOBILE
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 
+1. Fitur Login
+   - Siswa Akses Login untuk bisa masuk Aplikasi
+2. Fitur Informasi Tagihan
+   - dsinni tagihan brguna untuk mengetahui pembayaran dan melaksanakan Pembayaran, silakan isi nominal lalu akan di lemparkan ke halaman midtrans untuk melakukan ppembayaran, setelah melakukan pembayaran akan ada notiffikasi pembayaran bahwa pembayarran berhasil
+3. Fitur Bukti Pembayaran
+   - dsini berguna untuk mengakses informasi pembayaran, Data Data Pembayaran yang sudah lunas dan belum Lunas
+4.   fitur profile
+   - informasi dari user aja
+5. Fitur notifikasi activity
+   hanya informasi riwayat dari Notifikasi Tersebut
